@@ -7,4 +7,8 @@ socket chatting application TestCode
 3. MultiClient.java를 실행한다. IP와 채팅방에서 사용할 pw입력하여 접속한다.
 4. 다중의 Client를 실행하여 서로통신해본다.
  
+
+실행예제
+
 ![ex_screenshot](./TestCase.JPG)
+![ex_screenshot](./TestCase2.JPG)
